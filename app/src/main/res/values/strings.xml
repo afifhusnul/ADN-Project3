@@ -4,6 +4,7 @@
     <string name="pref_stocks_initialized_key" translatable="false">initialized</string>
 
     <string name="pref_stocks_key">stocks</string>
+    <string name="button_add_stock">Add Ticker</string>
 
 
     <string name="pref_display_mode_key">displayMode</string>
